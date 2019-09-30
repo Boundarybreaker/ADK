@@ -28,5 +28,5 @@ dependencies {
 
 jar {
     from 'LICENSE'
-    archiveExtension = 'sbx'
+    extension = 'sbx'
 }
